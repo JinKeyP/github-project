@@ -4,6 +4,7 @@ about: 버그를 제보하고 싶다면 이 템플릿을 사용하세요.
 title: "[BUG] "
 labels: bug
 assignees: ''
+
 ---
 
 ## 버그 설명
